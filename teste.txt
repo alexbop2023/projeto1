@@ -1,3 +1,16 @@
 alex maciel
 diego sampaio
+<<<<<<< HEAD
 cristiane alejo
+=======
+cristiane alejo
+
+
+
+Linha adicionada por Diego.
+
+
+Outra Linha
+
+Uma outra linha.
+>>>>>>> origin/diego_sampaio
