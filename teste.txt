@@ -4,6 +4,7 @@ diego sampaio
 cristiane alejo
 =======
 cristiane alejo
+<<<<<<< HEAD
 
 
 
@@ -13,4 +14,7 @@ Linha adicionada por Diego.
 Outra Linha
 
 Uma outra linha.
+>>>>>>> origin/diego_sampaio
+=======
+Linha adicionada por Diego.
 >>>>>>> origin/diego_sampaio
