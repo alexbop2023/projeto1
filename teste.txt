@@ -2,6 +2,7 @@ alex maciel
 diego sampaio
 <<<<<<< HEAD
 cristiane alejo
+<<<<<<< HEAD
 =======
 cristiane alejo
 <<<<<<< HEAD
@@ -18,3 +19,7 @@ Uma outra linha.
 =======
 Linha adicionada por Diego.
 >>>>>>> origin/diego_sampaio
+=======
+linha adicionada por alexx
+linha adicionada por alex
+>>>>>>> origin/alex
